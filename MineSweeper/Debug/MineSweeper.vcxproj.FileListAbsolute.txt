@@ -1,0 +1,2 @@
+D:\C++\MineSweeper\MineSweeper\Debug\MineSweeper.exe
+D:\C++\MineSweeper\MineSweeper\Debug\MineSweeper.pdb
